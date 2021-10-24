@@ -48,3 +48,96 @@ export const userData = [
     "Active User": 3000,
   },
 ];
+
+export const userRows = [
+  {
+    id: 1,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 2,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 3,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 4,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 5,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 6,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 7,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 8,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 9,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+  {
+    id: 10,
+    userName: "Tony stark",
+    avatar:
+      "https://images.hgmsites.net/med/robert-downey-jr-as-tony-stark-in-iron-man_100311248_m.jpg",
+    email: "tonystark@gmail.com",
+    status: "active",
+    transaction: "₹1999",
+  },
+];
