@@ -49,6 +49,21 @@ export const userData = [
   },
 ];
 
+export const productData = [
+  {
+    name: "Jan",
+    Sales: 4000,
+  },
+  {
+    name: "Feb",
+    Sales: 3000,
+  },
+  {
+    name: "Mar",
+    Sales: 5000,
+  },
+];
+
 export const userRows = [
   {
     id: 1,
@@ -139,5 +154,88 @@ export const userRows = [
     email: "tonystark@gmail.com",
     status: "active",
     transaction: "₹1999",
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 2,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 3,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 4,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 5,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 6,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 7,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 8,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 9,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
+  },
+  {
+    id: 10,
+    name: "Iron Man's Tshirt",
+    img: "https://www.redwolf.in/image/catalog/mens-t-shirts/marvel-the-invincible-iron-man-t-shirt.gif",
+    stock: 123,
+    status: "active",
+    price: "₹1999",
   },
 ];
